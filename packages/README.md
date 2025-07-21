@@ -17,5 +17,7 @@
 ```bash
 wget -O TDengine-server-3.0.5.0-Linux-x64.tar.gz https://www.taosdata.com/assets-download/3.0/TDengine-server-3.0.5.0-Linux-x64.tar.gz
 ```
-
+```bash
+wget -O taos-jdbcdriver-3.0.0-dist.jar https://repo1.maven.org/maven2/com/taosdata/jdbc/taos-jdbcdriver/3.0.0/taos-jdbcdriver-3.0.0-dist.jar
+```
 然后将下载的文件放在此目录中。
