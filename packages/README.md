@@ -5,6 +5,7 @@
 ## 当前包含的软件包
 
 - TDengine-server-3.0.5.0-Linux-x64.tar.gz：TDengine 服务器和客户端软件包
+- taos-jdbcdriver-3.0.0-dist.jar TDengine JDBC Driver
 
 ## 使用方法
 
