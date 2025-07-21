@@ -33,6 +33,7 @@ tdengine-to-influxdb-migration/
 │       └── ParallelTDengineNativeSourceFunctionWithDirectConnection_OFFSET.java
 ├── packages/                                   # Installation packages
 │   └── TDengine-server-3.0.5.0-Linux-x64.tar.gz
+│   └── taos-jdbcdriver-3.0.0-dist.jar
 ├── docs/                                       # Documentation
 │   ├── INSTALL.md                             # Installation guide
 │   └── CONFIGURATION.md                       # Configuration parameters
